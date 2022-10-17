@@ -5,11 +5,8 @@
 /**
  * main - Entry point
  *
- * printf - out a text to the screen
- *
- * Return: Always 0 (Success)
+ * Return:Always 0 (Success)
  */
-
 
 
 
