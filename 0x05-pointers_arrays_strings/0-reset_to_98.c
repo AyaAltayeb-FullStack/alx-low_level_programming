@@ -1,6 +1,6 @@
 /**
- * reset_to_98 -  updates a value its point to 
- * @n: pointer to an int 
+ * reset_to_98 -  updates a value its point to
+ * @n: pointer to an int
  *
  * Return: nothing
  */
