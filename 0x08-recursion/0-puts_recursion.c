@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _put_recursion - a string is printed followed by a new line
+ * _puts_recursion - a string is printed followed by a new line
  * @s: pointer to a string
  * Return: nothing
  **/
