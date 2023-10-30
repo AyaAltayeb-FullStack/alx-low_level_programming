@@ -1,7 +1,8 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * *_strdup - returns a pointer to the new location that has a copy of the string
+ * *_strdup - returns a pointer to the new location 
+ * that has a copy of the string
  * @str: the string to be copied
  * Return: pointer to the new string location or null
  **/
